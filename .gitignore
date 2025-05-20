@@ -299,3 +299,5 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+models/sbw_finetuned_w2v_ngram.model.syn1neg.npy
+models/sbw_finetuned_w2v_ngram.model.wv.vectors.npy
